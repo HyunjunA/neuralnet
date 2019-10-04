@@ -11,3 +11,6 @@ I implemented Neural Networks with Matlab and Python.
 2 [Deep Learning](https://www.deeplearningbook.org/)
 
 3 [Stanford's tutorial (Andrew Ng et al.) on Multi-Layer Neural Network](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)
+
+## How to run
+1 Run main.m
